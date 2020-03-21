@@ -2,8 +2,9 @@
 **/*.class
 
 # module output directory
-mods
+mods/
 
 # IntelliJ
 .idea
-*.iml
+**/*.iml
+**/target/
